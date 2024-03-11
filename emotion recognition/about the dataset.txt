@@ -1,0 +1,4 @@
+This dataset contains 3 classes - Angry, Happy and Sad. There are 80-100 images in each of them, it is not only images of faces.
+Firstly, I wrote a model with 5 CNN layers and 256 filters, which gave me 31% accuracy. 
+Secondly, I tried to make my model is easier - 37.88% accuracy.
+After my research, I realize there is not enough data to make accuracy above 37.88%.
