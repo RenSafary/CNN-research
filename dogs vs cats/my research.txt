@@ -1,0 +1,5 @@
+I have noticed that I had not created the dataset class, that is why my teaching was incorrect. 
+In this progrram, I have used cuda, it has accelerated teaching of neural network by 10 times.
+I have understood if your model is heavy, neural network will remember images when your task is easy.
+For example, a student with a good memory will not learn a topic by an exam, but will learn exercises,
+another student with bad memory will teach rules and will find patterns.
